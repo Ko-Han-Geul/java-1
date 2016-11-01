@@ -1,4 +1,4 @@
-class Hello {
+class HelloWorld {
     String toWhom="world";
     Hello() {}
     void sayHello() {
